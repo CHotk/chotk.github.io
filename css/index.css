@@ -111,7 +111,7 @@ body {
 }
 .banner .bannerIMG {
     height: 400px;
-    background-image: url("../images/banner01.jpg");
+    background-image: url("../images/banner01.png");
 }
 .bannerIMG .left {
     float: left;
